@@ -1,0 +1,6 @@
+customhost = "database-1.cfkkcoo8s9ob.us-east-2.rds.amazonaws.com"
+customuser = "admin"
+custompass = "password"
+customdb = "student"
+custombucket = "202011028endsem"
+customregion = "us-east-2"
